@@ -2,5 +2,5 @@
 Rails6に触る
 ## 環境
 - Ruby on Rails: 6.1.3.2
-- Ruby: 2.6.5
+- Ruby: 3.0.1
 - MySQL: 8.0.25
