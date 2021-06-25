@@ -8,7 +8,6 @@ default: &default
 
 development:
   <<: *default
-  database: db/development.sqlite3
   database: rails_training_development
 
 test:
