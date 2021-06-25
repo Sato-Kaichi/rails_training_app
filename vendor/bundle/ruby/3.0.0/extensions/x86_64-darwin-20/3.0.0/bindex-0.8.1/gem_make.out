@@ -1,0 +1,15 @@
+current directory: /Users/kaichi/private_projects/rails_training_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/kaichi/.rbenv/versions/3.0.1/bin/ruby -I /Users/kaichi/.rbenv/versions/3.0.1/lib/ruby/3.0.0 -r ./siteconf20210625-15243-3fn8tt.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kaichi/private_projects/rails_training_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/kaichi/private_projects/rails_training_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/kaichi/private_projects/rails_training_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210625-15243-tnzx6d/skiptrace/internal
